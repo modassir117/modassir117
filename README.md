@@ -25,7 +25,9 @@
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/modassir_117)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/modassiralam117)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:modassiralam766@gmail.com)
 
 ---
@@ -55,19 +57,29 @@
 <tr>
 
 <td>
-<img src="https://github-readme-stats.shion.dev/api?username=modassir117&theme=dark&hide_border=false" width="100%">
+<img src="https://github-readme-stats.shion.dev/api?username=modassir117&theme=dark&hide_border=false">
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com/?user=modassir117&theme=dark&hide_border=false" width="100%">
+<img src="https://streak-stats.demolab.com/?user=modassir117&theme=dark&hide_border=false">
 </td>
 
 <td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=modassir117&layout=compact&theme=dark&hide_border=false" width="100%">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=modassir117&layout=compact&theme=dark&hide_border=false">
 </td>
 
 </tr>
 </table>
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=modassir117&theme=github-dark&hide_border=true&area=true">
+
+</p>
 
 ---
 
